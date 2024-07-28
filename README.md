@@ -12,8 +12,7 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak hazırlanmış basit bir alışv
 - **Responsive Tasarım:** Farklı cihazlara uyumlu bir arayüz.
 
 ## Ekran Görüntüleri
-
-*Ekran görüntüleri burada olacak*
+![Ana Sayfa](desktop.gif)
 
 ## Kurulum
 
@@ -48,5 +47,4 @@ Katkılarınızı memnuniyetle karşılıyoruz! Herhangi bir hata bulursanız ve
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
 
 ---
-## Ekran Görüntüleri
-![Ana Sayfa](desktop.gif)
+
