@@ -50,3 +50,5 @@ Katkılarınızı memnuniyetle karşılıyoruz! Herhangi bir hata bulursanız ve
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
 
 ---
+## Ekran Görüntüleri
+![Ana Sayfa](desktop.gif)
