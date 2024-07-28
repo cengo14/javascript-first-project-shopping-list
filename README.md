@@ -1,5 +1,3 @@
-Tabii ki! İşte HTML, CSS ve JavaScript kullanarak hazırlanmış basit bir alışveriş listesi uygulaması için bir GitHub README örneği:
-
 ---
 
 # Alışveriş Listesi Uygulaması
